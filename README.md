@@ -14,10 +14,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ## PROCEDURE
 
  
-1. Open Autodesk Fusion 360 and create a new design file. Select the Front view (XY plane) and click Create Sketch.
-
-   
-   
+1.Open Autodesk Fusion 360 and create a new design file. Select the Front view (XY plane) and click Create Sketch.
+  
 2.Draw a horizontal line of 47 mm from the center point to the left, and another 47 mm line to the right. These are your reference lines.
 
 3.At the center, draw two concentric circles using the Center Diameter Circle tool. Set their sizes to Ø40 mm and Ø66 mm with the Sketch Dimension tool.
@@ -28,7 +26,13 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 5.Use the Trim tool to remove the extra parts of the patterned circles and get the central profile. Check that the remaining arcs are properly placed and connected.
 
-6.Draw the circles at the top, bottom, and left side as shown in the reference drawing. Position them using the horizontal and vertical reference lines.
+<img width="205" height="341" alt="Screenshot 2026-11-11 160150" src="https://github.com/user-attachments/assets/4f64c405-db16-4f5f-a873-bdddf4a2a7fd" />
+
+
+6.Draw the circles at the top, bottom, and left side as shown in the reference drawing. Position them using the horizontal and vertical reference lines.p
+
+<img width="538" height="551" alt="image" src="https://github.com/user-attachments/assets/3fc986c9-0add-4c66-b083-cb05ac37067d" />
+
 
 7.Draw a Ø128 mm circle and make it tangent to the top circle and the middle circular region. Trim the unwanted part of this large circle.
 
@@ -58,9 +62,18 @@ created using Autodesk Fusion 360.
 
 ## SKETCHS
 
+<img width="1291" height="622" alt="image" src="https://github.com/user-attachments/assets/ec14e833-9a51-46fb-8b68-61e193809c69" />
+
+
+## INPUT
+
+<img width="811" height="625" alt="image" src="https://github.com/user-attachments/assets/53920c77-c334-453c-9281-fd8197fff60c" />
+
 
 
 ## OUTPUT
+
+<img width="832" height="587" alt="image" src="https://github.com/user-attachments/assets/34bcdb2f-c8d1-408e-98d1-64c87a7ff627" />
 
 
 ## RESULT
