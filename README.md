@@ -13,34 +13,52 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+ 
+1. Open Autodesk Fusion 360 and create a new design file. Select the Front view (XY plane) and click Create Sketch.
 
-<img width="492" height="306" alt="Screenshot 2026-11-11 160319" src="https://github.com/user-attachments/assets/2bd78f22-a798-4683-9992-651644a49507" />
+   
+   
+2.Draw a horizontal line of 47 mm from the center point to the left, and another 47 mm line to the right. These are your reference lines.
 
+3.At the center, draw two concentric circles using the Center Diameter Circle tool. Set their sizes to Ø40 mm and Ø66 mm with the Sketch Dimension tool.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+<img width="352" height="540" alt="Screenshot 2026-11-11 155900" src="https://github.com/user-attachments/assets/84e3ce40-9421-4842-9c1b-f54a988a9d40" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+4.Draw a small circle of 6 mm radius near the central circles. Use the Circular Pattern command to make six equally spaced copies around the center.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+5.Use the Trim tool to remove the extra parts of the patterned circles and get the central profile. Check that the remaining arcs are properly placed and connected.
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+6.Draw the circles at the top, bottom, and left side as shown in the reference drawing. Position them using the horizontal and vertical reference lines.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+7.Draw a Ø128 mm circle and make it tangent to the top circle and the middle circular region. Trim the unwanted part of this large circle.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+8.Draw a Ø40 mm circle between the middle region and the left-side circle. Make it tangent to both and trim the extra part to form the connecting curve.
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
+9.In the same way, draw the Ø20 mm and Ø40 mm circles between the left-side and bottom circles. Place them using tangent relationships and the given dimensions.
 
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
+10.Trim all the remaining extra circles and arcs so only the outer profile is left. Make sure the curves join smoothly without breaks.
 
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+<img width="441" height="301" alt="Screenshot 2026-11-11 160051" src="https://github.com/user-attachments/assets/64907537-34f3-450f-b023-3ebe999c8a19" />
+
+11.Check the left-side geometry and add the needed constraints (tangent, coincident, horizontal, vertical) so the sketch stays fixed in shape and position.
+
+12.Select the finished left-side geometry and use the Mirror command to copy it to the right side. Use the central vertical line as the mirror axis.
+
+13.After mirroring, trim any overlapping or extra parts. Check that all circles, arcs, and curves match the dimensions and shape in the reference drawing.
+
+14.Do a final check of the whole sketch for correct dimensions, curves, and constraints. Click Finish Sketch and save the file with the required name.
+
+<img width="492" height="306" alt="Screenshot 2026-11-11 160319" src="https://github.com/user-attachments/assets/173c7fe5-4148-4fac-bdba-f4e6238752e4" />
+
+15. After finishing the sketch switch to drawing mode to plot the 
+sketch in ISO standard.Thus, the given drawing is successfully 
+created using Autodesk Fusion 360.  
+
 
 
 ## SKETCHS
-![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
+
+
 
 ## OUTPUT
 
