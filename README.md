@@ -75,3 +75,6 @@ created using Autodesk Fusion 360.
 
 <img width="832" height="587" alt="image" src="https://github.com/user-attachments/assets/34bcdb2f-c8d1-408e-98d1-64c87a7ff627" />
 
+
+## RESULT
+Thus the given sketch is drawn and drafted using fusion 360 tool.
